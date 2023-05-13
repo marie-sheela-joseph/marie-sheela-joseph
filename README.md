@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I’m currently working on ...
+
+[![My Skills](https://skills.thijs.gg/icons?i=react,ts,docker,git,js,css,html,nodejs&theme=light)](https://skills.thijs.gg)
 
 <!--
 **marie-sheela-joseph/marie-sheela-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
