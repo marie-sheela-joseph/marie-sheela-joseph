@@ -7,6 +7,9 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)
 
+### 📫 How to reach me: ...
+### sheelajoseph200@gmail.com
+### https://www.linkedin.com/in/marie-sheela-joseph-louis-selvaraj/
 <!--
 **marie-sheela-joseph/marie-sheela-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
