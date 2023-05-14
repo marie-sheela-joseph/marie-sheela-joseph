@@ -27,7 +27,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marie-sheela-joseph&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marie-sheela-joseph)]
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marie-sheela-joseph)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marie-sheela-joseph)]
