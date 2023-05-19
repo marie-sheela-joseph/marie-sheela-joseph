@@ -5,7 +5,9 @@
 
 ### I’m currently working on ...
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,jest,docker,git,js,css,html,nodejs&perline=3)](https://skillicons.dev)
+[<img align="left" alt="medium" src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" />][blog]
+
+[blog]: https://eresh-zealous.medium.com/
 
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
