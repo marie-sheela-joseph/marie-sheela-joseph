@@ -5,6 +5,8 @@
 
 ### I’m currently working on ...
 
+[![My Skills](https://skills.thijs.gg/icons?i=react,jest,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)
+
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
 ### https://www.linkedin.com/in/marie-sheela-joseph-louis-selvaraj/
