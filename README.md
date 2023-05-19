@@ -5,7 +5,7 @@
 
 ### I’m currently working on ...
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,jest,docker,git,js,css,html,nodejs&perline=3)](https://skillicons.dev)
 
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
