@@ -9,7 +9,7 @@
 
 ![alt text](https://testing-library.com/img/octopus-64x64.png)
 
-![alt text](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+![alt text](https://cdn-icons-png.flaticon.com/512/25/25231.png = 64x64)
 
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
