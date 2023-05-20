@@ -9,7 +9,7 @@
 
 ![alt text](https://testing-library.com/img/octopus-64x64.png)
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg){width:30px}
+![alt text](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
