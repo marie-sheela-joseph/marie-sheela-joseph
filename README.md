@@ -3,7 +3,7 @@
 ### My portfolio website 
 ### https://sheela-portfolio.web.app/
 
-### I’m currently working on ...
+### I’m currently working on React, Jest, React Testing Library, TypeScript, Docker, Git, Github, JavaScript, CSS 3, HTML 5
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,jest,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)
 
