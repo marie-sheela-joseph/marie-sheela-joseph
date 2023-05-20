@@ -9,6 +9,8 @@
 
 ![alt text](https://testing-library.com/img/octopus-64x64.png)
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
+
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
 ### https://www.linkedin.com/in/marie-sheela-joseph-louis-selvaraj/
