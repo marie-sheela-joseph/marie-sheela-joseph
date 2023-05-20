@@ -5,9 +5,7 @@
 
 ### I’m currently working on React, Jest, React Testing Library, TypeScript, Docker, Git, Github, JavaScript, CSS 3, HTML 5
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,jest,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)
-
-<img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40"/><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/><img src="https://raw.githubusercontent.com/testing-library/user-event/main/other/dog.png" width="40" height="40"/> 
+[![My Skills](https://skills.thijs.gg/icons?i=react,jest,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)<img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40"/><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/><img src="https://raw.githubusercontent.com/testing-library/user-event/main/other/dog.png" width="40" height="40"/> 
 
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
