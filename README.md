@@ -7,9 +7,8 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,jest,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)
 
-![alt text](https://testing-library.com/img/octopus-64x64.png)
+<img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40"/><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/>
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"/>
 
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
