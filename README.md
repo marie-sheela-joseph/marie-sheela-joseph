@@ -7,6 +7,8 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,jest,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)
 
+![alt text](https://testing-library.com/img/octopus-64x64.png)
+
 ### 📫 How to reach me: ...
 ### sheelajoseph200@gmail.com
 ### https://www.linkedin.com/in/marie-sheela-joseph-louis-selvaraj/
