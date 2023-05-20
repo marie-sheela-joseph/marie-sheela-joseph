@@ -3,7 +3,7 @@
 ### My portfolio website 
 ### https://sheela-portfolio.web.app/
 
-### I’m currently working on React, Jest, TypeScript, Docker, Git, JavaScript, CSS 3, HTML 5, React Testing Library, Github, @testing-library/user-event
+### I’m currently working on React, Jest, TypeScript, Docker, Git, JavaScript, CSS 3, HTML 5, Nodejs, React Testing Library, Github, @testing-library/user-event
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,jest,ts,docker,git,js,css,html,nodejs&theme=dark)](https://skills.thijs.gg)<img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40"/><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/><img src="https://raw.githubusercontent.com/testing-library/user-event/main/other/dog.png" width="40" height="40"/> 
 
