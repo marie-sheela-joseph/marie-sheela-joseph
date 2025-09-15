@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sheela.
 
-### My portfolio website 
+### ✨ * Feel free to check out my portfolio website for live projects.*
 ### https://marie-sheela-portfolio.web.app/
 
 ### 📫 How to reach me: ...
